@@ -1,0 +1,10 @@
+C:\Users\HP 255\source\repos\Chatprogi\bin\Debug\Chatprogi.exe.config
+C:\Users\HP 255\source\repos\Chatprogi\bin\Debug\Chatprogi.exe
+C:\Users\HP 255\source\repos\Chatprogi\bin\Debug\Chatprogi.pdb
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.Form1.resources
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.exe
+C:\Users\HP 255\source\repos\Chatprogi\obj\Debug\Chatprogi.pdb
